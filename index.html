@@ -45,12 +45,28 @@ header p {
       letter-spacing: 2px;
     }
 
-    .description {
-    text-align: center;
-    margin-top: 20px;
+  .description {
+  text-align: center;
+  margin-top: 20px;
 
-    color: #0094FF;
+  color: #0094FF;
 
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 2px;
+
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+
+  line-height: 1.6;
+  padding: 0 20px;
+
+  text-shadow:
+    0 0 5px #0094FF,
+    0 0 10px #0094FF,
+    0 0 20px #0094FF;
+}
     font-size: 28px;
     font-weight: bold;
     letter-spacing: 2px;
@@ -93,9 +109,12 @@ header p {
 <body>
 
 <header>
-  <h1>DockSpatial</h1>
-  <p>Ici, je construis des vaisseaux spatiaux à partir d’objets détournés, de pièces de maquettes et de matériaux récupérés.</p>
+  <h1 class="hidden-title">DockSpatial</h1>
 </header>
+
+<div class="description">
+  Ici, je construis des vaisseaux spatiaux à partir d’objets détournés, de pièces de maquettes et de matériaux récupérés.
+</div>
 
 <section class="gallery">
 
