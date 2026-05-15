@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Le robot joueur</title>
+
+  <style>
+    body {
+      margin: 0;
+      background: #000;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+
+    /* 🟦 BANNIÈRE */
+    header {
+      background-image: url('banniere2.png');
+      background-size: cover;
+      background-position: center;
+
+      margin: 30px auto;
+      width: 85%;
+      max-width: 1200px;
+      height: 200px;
+
+      border-radius: 25px;
+
+      box-shadow: 0 0 25px #0094FF;
+
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    /* 🟦 DESCRIPTION */
+    .description {
+      text-align: center;
+      margin-top: 20px;
+
+      color: #0094FF;
+      font-size: 18px;
+      font-weight: bold;
+
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+
+      line-height: 1.6;
+
+      text-shadow:
+        0 0 5px #0094FF,
+        0 0 10px #0094FF,
+        0 0 20px #0094FF;
+    }
+
+    /* 🟦 BLOC ARTICLE */
+    .article {
+      margin: 30px auto;
+      width: 85%;
+      max-width: 1200px;
+
+      background: #0a0a0a;
+      border-radius: 25px;
+      padding: 30px;
+
+      box-shadow: 0 0 25px #0094FF;
+
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .article h1 {
+      color: #0094FF;
+      text-align: center;
+      text-shadow: 0 0 10px #0094FF;
+      margin-bottom: 20px;
+    }
+
+    .article img {
+      width: 100%;
+      border-radius: 15px;
+      margin: 20px 0;
+    }
+
+    .article p {
+      line-height: 1.6;
+      font-size: 16px;
+      color: #ddd;
+    }
+
+    /* 🟦 RETOUR */
+    .back {
+      display: block;
+      text-align: center;
+      margin-top: 20px;
+      color: #0094FF;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- BANNIÈRE -->
+  <header></header>
+
+  <!-- DESCRIPTION -->
+  <div class="description">
+    Projet Le robot joueur
+  </div>
+
+  <!-- ARTICLE -->
+  <div class="article">
+
+    <p>
+    J' avais dans ma caisse à rabiot un robot chien cassé qu' un ami éboueur m' avait ramené ( c' est lui qui me permet d' avoir en grande partie de la matière )
+    </p>
+
+    <img src="r1.jpg">
+
+    <p>
+Je le démonte donc et récupère le corps principal faits de deux parties que je colle, ça sera le tronc de mon robot
+
+      </p>
+
+    <img src="r2.jpg">
+
+    <p>
+ 
+Je prends la partie plastique d' un autre jouet ( je sais même plus d' où ça vient   ) qui sera le cou et la poitrine et la colle sur le ventre
+Pour le dos, une partie plastique provenant d' une cafetière...
+
+  </p>
+
+    <img src="r3.jpg">
+
+    <p>
+Je fixe différent éléments au niveau du cou et prend le haut de la tête du chien qui fera l' abdomen
+</p>
+
+    <img src="r4.jpg">
+
+    <p>
+
+Je désosse une souris et récupère la partie haute, j' y perce deux trous qui seront les yeux
+
+  </p>
+
+    <img src="r5.jpg">
+
+    <p>
+      
+Je fixe un petite flotteur de pompe auquel je lime les arrivées, il fera le cerveau et relie des câbles aux divers trous ainsi qu' une plaque devant l' orifice pour la bouche...
+
+  </p>
+
+    <img src="r6.jpg">
+
+    <p>
+
+Je prend divers éléments d' un vieux lecteur cassette pour faire le cou
+
+  </p>
+
+    <img src="r7.jpg">
+
+    <p>
+Je colle la tête au corps en ajoutant par la même des engrenages
+
+  </p>
+
+    <img src="r8.jpg">
+
+    <p>
+
+Place au jambes qui sont celles d' un autre robot cassé, j' y rajoute deux bâtons de glace pour faire les cuisses et divers accessoires pour faire les genoux
+    </p>
+
+    <img src="r9.jpg">
+
+    <p>
+
+
+Au bout des bâtons je colle deux engrenage en bois
+
+</p>
+
+    <img src="r10.jpg">
+
+    <p>
+Puis les colle au corps, je recouvre les engrenages de deux demi-sphère provenant du corps du chien. Et rajoute du câblage au niveau du cou...
+
+ </p>
+
+    <img src="r11.jpg">
+
+    <p>
+
+Maintenant les coudes avec d' autres engrenages en bois et les roues du robot-chien.
+
+</p>
+
+    <img src="r12.jpg">
+
+    <p>
+  Les avants bras faits avec des buses à pâtisseries ( acheté en magasin d' occas... 50c le lot ). Je colle les engrenages aux buses puis fixe les mains provenant du robot de la maquette précédente...
+</p>
+
+    <img src="r13.jpg">
+
+    <p>
+Bon, j' ai retiré ce qui faisait les épaules, les deux roulements noirs, ça faisait beaucoup trop large et pas esthétique.
+
+A la place, j' ai découpé des bouchons de boissons lactées et récupéré la partie inférieure qui s' insère mieux...
+
+</p>
+
+    <img src="r14.jpg">
+
+    <p>
+  J' avais dans mon stock des boules de plexiglas que je colle à l' intérieur des parties de bouchons. Ça donne plus de réalisme pour imaginer le mouvement des bras. Je récupère sur un vieux robot jouet des articulations qui feront offices de bras et viens y fixer les avants bras ! Puis colle l' ensemble aux boules... Et là... C' est une galère sans nom pour que ces p#@!#? de bras tiennent !!!  Un coup un bout tient mais l' autre lâche et vice-versa...
+
+</p>
+
+    <img src="r15.jpg">
+
+    <p>
+Mais j' y arrive tant bien que mal et le résultat est pas mal...
+</p>
+
+    <img src="r16.jpg">
+
+    <p> 
+ponçage et une couche d' apprêt
+</p>
+
+    <img src="r17.jpg">
+
+    <p> 
+Suivi de deux couches de bleu Himalaya
+</p>
+
+    <img src="r18.jpg">
+
+    <p> 
+  </div>
+
+  <!-- RETOUR -->
+  <a class="back" href="index.html">← Retour à l' accueil</a>
+
+</body>
+</html>
